@@ -1,5 +1,5 @@
 ## Nomflix
-momentum customization
+React JS Master Class
 
 ### Description
 앞서 배운 Routing, Styling, Typescript, Data Fetching, State 관리, Animation  
